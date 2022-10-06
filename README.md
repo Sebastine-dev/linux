@@ -231,6 +231,7 @@ chmod u+x setup.sh
 # execute script
 ./setup.sh 
 bash setup.sh
+sh setup.sh
 ```
 
 </details>
