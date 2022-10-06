@@ -1,8 +1,5 @@
 ### This is a [DevOps](https://www.techworld-with-nana.com/devops-bootcamp) linux "Operating Systems  Basics" Module ###
 <br />
-![Linux Icon for Linux Module](/linux.png "OS & Linux Basics Module")
-
-
 
 <details>
 <summary>Video: Basic Linux Commands (CLI - Part 2)</summary>
