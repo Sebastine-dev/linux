@@ -2,7 +2,7 @@
 <br />
 ![Linux Icon for Linux Module](/linux.png "OS & Linux Basics Module")
 
-**Commands used in the videos:**
+
 
 <details>
 <summary>Video: Basic Linux Commands (CLI - Part 2)</summary>
